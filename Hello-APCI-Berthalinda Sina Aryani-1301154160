@@ -1,4 +1,4 @@
-Program APCI-1301154160; // ubah menjadi Program APCI-NIM
+Program APCI-1301154160; 
             Uses Crt;
             Begin
                 ClrScr;
